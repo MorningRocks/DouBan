@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e3f0920-0880-4d3c-83b4-d43a4c826724" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/douban.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/douban_spider/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/douban_spider/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/douban_spider/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/douban_spider/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/douban_spider/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/douban_spider/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/douban_spider/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/douban_spider/spiders/douban_250_spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapy.cfg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1eAYEAM0VnR3H0G9qHCKWzA8acL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../qidian_spider" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="items" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="douban_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/douban_spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/douban_spider/items.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="douban_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/douban_spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/douban_spider/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.items" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e3f0920-0880-4d3c-83b4-d43a4c826724" name="Default Changelist" comment="" />
+      <created>1593765749820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593765749820</updated>
+      <workItem from="1593765752618" duration="15000" />
+      <workItem from="1593765792989" duration="1166000" />
+      <workItem from="1593767614863" duration="32000" />
+      <workItem from="1593767797160" duration="141000" />
+      <workItem from="1593820971976" duration="94000" />
+      <workItem from="1593844934319" duration="10000" />
+      <workItem from="1594082327020" duration="649000" />
+      <workItem from="1594084031182" duration="4849000" />
+      <workItem from="1594089884998" duration="155000" />
+      <workItem from="1594101936239" duration="8705000" />
+      <workItem from="1594166944447" duration="22000" />
+      <workItem from="1594190255243" duration="1570000" />
+      <workItem from="1594191839392" duration="28000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1594190665159</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594190665159</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="472" y="42" key="#items" timestamp="1593765808919">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="472" y="42" key="#items/0.0.1536.834@0.0.1536.834" timestamp="1593765808919" />
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1594190664421">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1594190664421" />
+    <state x="549" y="174" key="FileChooserDialogImpl" timestamp="1594166962868">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="174" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1594166962868" />
+    <state x="516" y="334" key="Github.CreateGistDialog" timestamp="1594191297746">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="516" y="334" key="Github.CreateGistDialog/0.0.1536.834@0.0.1536.834" timestamp="1594191297746" />
+    <state x="625" y="319" width="285" height="287" key="Github.ShareDialog" timestamp="1594191498227">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="625" y="319" width="285" height="287" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1594191498227" />
+    <state width="1491" height="212" key="GridCell.Tab.0.bottom" timestamp="1594114800460">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="212" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594114800460" />
+    <state width="1491" height="212" key="GridCell.Tab.0.center" timestamp="1594114800460">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="212" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1594114800460" />
+    <state width="1491" height="212" key="GridCell.Tab.0.left" timestamp="1594114800460">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="212" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1594114800460" />
+    <state width="1491" height="212" key="GridCell.Tab.0.right" timestamp="1594114800460">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="212" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1594114800460" />
+    <state x="272" y="63" key="SettingsEditor" timestamp="1594190499722">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="272" y="63" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1594190499722" />
+    <state x="212" y="142" width="978" height="540" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1594191826430">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="212" y="142" width="978" height="540" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1594191826430" />
+    <state x="467" y="396" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594190882701">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="467" y="396" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1594190882701" />
+    <state x="420" y="272" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1594191456789">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="420" y="272" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.834@0.0.1536.834" timestamp="1594191456789" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/douban_spider$main.coverage" NAME="main Coverage Results" MODIFIED="1594108138575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douban_spider" />
+  </component>
+</project>
